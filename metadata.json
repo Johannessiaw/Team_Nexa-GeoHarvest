@@ -1,0 +1,6 @@
+{
+  "name": "GeoHarvest",
+  "description": "An AI-powered, offline-first digital marketplace and logistics platform for vegetable farmers and buyers in Ghana, featuring smart pricing, Bolt-style delivery tracking, trust ratings, live analytics, and a floating AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
