@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Map marker pin representing GIS Location & Geospatial Harvest -->
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M54,22C65,22 74,31 74,43C74,60 54,78 54,78C54,78 34,60 34,43C34,31 43,22 54,22Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"/>
+    <!-- Organic leaf overlay representing Agricultural Produce & Harvest -->
+    <path
+        android:fillColor="#C8E6C9"
+        android:pathData="M54,26C61,26 66,32 66,40C66,51 54,64 54,64C54,64 42,51 42,40C42,32 47,26 54,26Z"
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="1"/>
+    <!-- Center stem of leaf -->
+    <path
+        android:pathData="M54,26L54,64"
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"/>
+    <!-- Leaf veins -->
+    <path
+        android:pathData="M54,34L61,30M54,34L47,30M54,42L63,38M54,42L45,38M54,50L61,46M54,50L47,46"
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"/>
+</vector>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598636739665",
+    "project_id": "geoharvest-7b6cf",
+    "storage_bucket": "geoharvest-7b6cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598636739665:android:382671362b29e463690c70",
+        "android_client_info": {
+          "package_name": "Com.agribusiness.GeoHarvest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS7ynAEf7KfXxJNXZOb3j1_f7ZMRrbpkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
